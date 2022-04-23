@@ -1,7 +1,7 @@
 Description
 ===========
 
-A simple app for creating QR codes created on Python.
+A simple app for creating QR codes developed in Python.
 
 ![Example 1](https://raw.githubusercontent.com/Crusader93/Simple_QR_Code/master/examples/1.jpg)
 ![Example 2](https://raw.githubusercontent.com/Crusader93/Simple_QR_Code/master/examples/2.jpg)
